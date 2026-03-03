@@ -1,6 +1,10 @@
 Engagement & CRM Analytics
 Nonprofit Donor Case Study
 
+## 📌 Executive Summary
+
+This case study demonstrates how nonprofit donor data can be transformed into actionable strategic insight using behavioral analytics, revenue modeling, and segmentation techniques commonly used in foundation and development operations.
+
 📊 Project Overview
 This project analyzes a nonprofit CRM-style donor dataset (5,000 donors) to uncover behavioral patterns, revenue concentration, and retention risk using exploratory data analysis and RFM-based segmentation.
 The objective is to simulate how a development team or foundation could use analytics to inform donor strategy and portfolio management.
@@ -32,6 +36,12 @@ The dataset includes:
 * Gift frequency strongly correlates with lifetime giving.
 * Recency distribution indicates substantial lapse risk across the donor base.
 * RFM segmentation reveals actionable tiers for cultivation and retention strategy.
+
+📊 Quantitative Results Snapshot
+* 5,000 donor records analyzed
+* ~36% revenue concentration in top 20%
+* X% donors inactive 12+ months (retention risk)
+* Clear positive relationship between frequency and total giving
 
 🧠 Strategic Recommendations
 * Prioritize high-RFM donors for major gift cultivation.
