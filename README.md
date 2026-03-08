@@ -62,4 +62,13 @@ The dataset includes:
 notebooks/
     01_data_intake.ipynb
 README.md
+## Key Findings
 
+### Dormant Donor Risk
+67% of donors have not given in the past 365 days, indicating significant re-engagement opportunity and highlighting the importance of targeted retention strategies.
+
+### Revenue Concentration
+Revenue is highly concentrated among a relatively small portion of the donor base. This supports the Pareto pattern commonly observed in nonprofit fundraising, where a minority of donors contribute the majority of total revenue.
+
+### Strategic Implication
+Development teams should prioritize stewardship of high-value donors while implementing re-engagement strategies for dormant segments to improve donor retention and lifetime value.
